@@ -1,6 +1,6 @@
 var options = {
 
-  url: "resources/countries.json",
+  url: "countries.json",
 
   getValue: "name",
 
